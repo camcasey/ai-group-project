@@ -5,4 +5,4 @@
 <li>Olivia May</li>
 <li>Cam Casey</li>
 
-This project is to be developed using the IntelliJ Idea IDE.
+This project was developed using the IntelliJ Idea IDE.
